@@ -13,15 +13,23 @@ The object detection model identifies the object in front of the user and output
 The 'models' folder contains the various edge impulse models for different devices.
 
 EDGE IMPULSE MODELS
+
 https://studio.edgeimpulse.com/public/649207/live
+
 https://studio.edgeimpulse.com/public/652076/live
+
 https://studio.edgeimpulse.com/public/655559/live
+
 https://studio.edgeimpulse.com/public/696756/live - has the highest accuracy
+
 https://studio.edgeimpulse.com/public/700716/live
+
 https://studio.edgeimpulse.com/public/711422/live
+
 https://studio.edgeimpulse.com/public/714674/live
 
 DATASET FOR EDGE IMPULSE MODELS
+
 https://drive.google.com/drive/folders/1e-7eUr8Vi1iK3WYlp5NzejV0hsvuliJK?usp=drive_link
 
 
