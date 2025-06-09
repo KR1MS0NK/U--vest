@@ -23,3 +23,6 @@ https://studio.edgeimpulse.com/public/714674/live
 
 DATASET FOR EDGE IMPULSE MODELS
 https://drive.google.com/drive/folders/1e-7eUr8Vi1iK3WYlp5NzejV0hsvuliJK?usp=drive_link
+
+
+The 'figures' folder contains the flow diagrams for the project as well as the circuit diagrams.
